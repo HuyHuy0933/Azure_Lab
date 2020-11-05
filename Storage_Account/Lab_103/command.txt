@@ -1,0 +1,1 @@
+az container create --resource-group demogrp1 --file deployment.yaml
