@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroup')]/providers/Microsoft.Storage/storageAccounts/huyxlestorage",
+      "type": "storage.azure",
+      "connectionId": "huyxlestorage",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
