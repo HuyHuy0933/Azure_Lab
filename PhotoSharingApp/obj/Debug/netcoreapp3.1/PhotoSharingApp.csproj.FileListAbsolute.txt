@@ -1,0 +1,13 @@
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.exe
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.deps.json
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.runtimeconfig.json
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.runtimeconfig.dev.json
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.dll
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\bin\Debug\netcoreapp3.1\PhotoSharingApp.pdb
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.csprojAssemblyReference.cache
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.AssemblyInfoInputs.cache
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.AssemblyInfo.cs
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.csproj.CoreCompileInputs.cache
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.dll
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.pdb
+E:\Work\Azure\Azure_Lab\PhotoSharingApp\obj\Debug\netcoreapp3.1\PhotoSharingApp.genruntimeconfig.cache
